@@ -1,19 +1,1 @@
-HELLO!!!
-This is a executable file it means it cannot be further modify or take over by your names/signature...
-If you try to do so this file would get corrupted and would be unusable.
-THIS GAME WOULD GET FURTHER UPGRADES/UPDATES IN FEW MONTHS
----------------------------------------------------------------------------------------------------------------------------
 
-IN THIS FOLDER YOU MIGHT NOTICE A FILE NAMED "pieces" DO NOT TRY TO DELETE OR MODIFY THE NAME OF IT, BECAUSE IT IS DIRECTLY
-CONNECTED WITH THE EXE FILE...
-
-HOW TO PLAY?
-JUST CLICK ON THE CHESS GAME EXE FILE TO OPEN THE GAME AND PLAY IT. AFTER YOU WIN/LOOSE YOU NEED TO PRESS "ESC" BUTTON TO 
-GET OUT OF THE PROGRAM.
-.
-.
-. -----------------------------------------THE END------------------------------------------------------------------------
-
-
-MADE BY==> ATHARV RAIII
-programing language used--> PYTHON
